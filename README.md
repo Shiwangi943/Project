@@ -1,0 +1,2 @@
+# Project
+Smart Study Planner
